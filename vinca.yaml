@@ -73,6 +73,7 @@ packages_select_by_deps:
   - gz_ros2_control_demos
 
   - rviz_visual_tools
+  - rviz_resource_interfaces
 
   - ur
   - ur_simulation_gz

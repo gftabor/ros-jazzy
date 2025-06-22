@@ -24,6 +24,9 @@ foonathan_memory_vendor:
 rviz_assimp_vendor:
   add_host: ["assimp"]
   add_run: ["assimp"]
+rviz_default_plugins:
+  add_host: ["ros-jazzy-rviz-resource-interfaces"]
+  add_run: ["ros-jazzy-rviz-resource-interfaces"]
 sdl2_vendor:
   add_host: ["sdl2"]
   add_run: ["sdl2"]

@@ -26,3 +26,9 @@ rviz_default_plugins:
   build_number: 8
 rviz2:
   build_number: 8
+resource_retriever:
+  build_number: 8
+libcurl_vendor:
+  build_number: 8
+rviz_resource_interfaces:
+  build_number: 8

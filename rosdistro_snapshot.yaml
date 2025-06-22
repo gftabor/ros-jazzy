@@ -2644,7 +2644,7 @@ libcamera:
   url: https://github.com/ros2-gbp/libcamera-release.git
   version: 0.5.0
 libcurl_vendor:
-  tag: release/jazzy/libcurl_vendor/3.4.4-1
+  tag: release/rolling/libcurl_vendor/3.8.1-1
   url: https://github.com/ros2-gbp/resource_retriever-release.git
   version: 3.4.4
 libg2o:
@@ -4380,7 +4380,7 @@ realtime_tools:
   url: https://github.com/ros2-gbp/realtime_tools-release.git
   version: 3.6.0
 resource_retriever:
-  tag: release/jazzy/resource_retriever/3.4.4-1
+  tag: release/rolling/resource_retriever/3.8.1-1
   url: https://github.com/ros2-gbp/resource_retriever-release.git
   version: 3.4.4
 rig_reconfigure:
@@ -5369,6 +5369,10 @@ rviz_satellite:
   version: 4.2.0
 rviz_visual_testing_framework:
   tag: rviz_visual_testing_framework
+  url: https://github.com/gftabor/rviz.git
+  version: 18.1.11
+rviz_resource_interfaces:
+  tag: rviz_resource_interfaces
   url: https://github.com/gftabor/rviz.git
   version: 18.1.11
 rviz_visual_tools:
