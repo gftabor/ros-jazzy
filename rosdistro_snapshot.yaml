@@ -5356,7 +5356,7 @@ rviz_ogre_vendor:
   url: https://github.com/gftabor/rviz.git
   version: 18.1.11
 rviz_rendering:
-  tag: rviz_renderng
+  tag: rviz_rendering
   url: https://github.com/gftabor/rviz.git
   version: 18.1.11
 rviz_rendering_tests:

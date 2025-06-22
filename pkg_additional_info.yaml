@@ -22,5 +22,7 @@ rviz_rendering_tests:
   build_number: 8
 rviz_visual_testing_framework:
   build_number: 8
+rviz_default_plugins:
+  build_number: 8
 rviz2:
   build_number: 8
