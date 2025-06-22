@@ -8,19 +8,19 @@ image_view:
   build_number: 8
 ros_gz_sim:
   build_number: 8
-rviz-ogre-vendor:
+rviz_ogre_vendor:
   build_number: 8
-rviz-rendering:
+rviz_rendering:
   build_number: 8
-rviz-assimp-vendor:
+rviz_assimp_vendor:
   build_number: 8
-rviz-common:
+rviz_common:
   build_number: 8
-rviz-visual_tools:
+rviz_visual_tools:
   build_number: 8
-rviz-rendering-tests:
+rviz_rendering_tests:
   build_number: 8
-rviz-visual-testing-framework:
+rviz_visual_testing_framework:
   build_number: 8
 rviz2:
   build_number: 8
