@@ -9,3 +9,8 @@ livox_ros_driver2:
   # support packages that stores their package.xml under a different name. For any
   # other modification, regular patch files should be used.
   package_xml_name: package_ROS2.xml
+  
+rviz_resource_interfaces:
+  tag: rviz_resource_interfaces
+  url: https://github.com/gftabor/rviz.git
+  version: 18.1.11
