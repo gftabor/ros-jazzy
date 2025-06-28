@@ -5326,7 +5326,7 @@ ruckig:
 rviz2:
   tag: rviz2
   url: https://github.com/gftabor/rviz.git
-  version: 19.1.11
+  version: 20.1.11
 rviz_2d_overlay_msgs:
   tag: release/jazzy/rviz_2d_overlay_msgs/1.3.1-1
   url: https://github.com/ros2-gbp/rviz_2d_overlay_plugins-release.git
@@ -5338,31 +5338,31 @@ rviz_2d_overlay_plugins:
 rviz_assimp_vendor:
   tag: assimp_vendor2
   url: https://github.com/gftabor/rviz.git
-  version: 19.1.11
+  version: 20.1.11
 rviz_common:
   tag: rviz_common2
   url: https://github.com/gftabor/rviz.git
-  version: 19.1.11
+  version: 20.1.11
 rviz_default_plugins:
   tag: rviz_default_plugins
   url: https://github.com/gftabor/rviz.git
-  version: 19.1.11
+  version: 20.1.11
 rviz_imu_plugin:
   tag: release/jazzy/rviz_imu_plugin/2.1.5-1
   url: https://github.com/ros2-gbp/imu_tools-release.git
   version: 2.1.5
 rviz_ogre_vendor:
-  tag: rviz_ogre_vendor2
+  tag: rviz_ogre_vendor3
   url: https://github.com/gftabor/rviz.git
-  version: 19.1.11
+  version: 20.1.11
 rviz_rendering:
   tag: rviz_rendering2
   url: https://github.com/gftabor/rviz.git
-  version: 19.1.11
+  version: 20.1.11
 rviz_rendering_tests:
   tag: rviz_rendering_tests2
   url: https://github.com/gftabor/rviz.git
-  version: 19.1.11
+  version: 20.1.11
 rviz_satellite:
   tag: release/jazzy/rviz_satellite/4.2.0-1
   url: https://github.com/nobleo/rviz_satellite-release.git
@@ -5370,7 +5370,7 @@ rviz_satellite:
 rviz_visual_testing_framework:
   tag: rviz_visual_testing2
   url: https://github.com/gftabor/rviz.git
-  version: 19.1.11
+  version: 20.1.11
 rviz_visual_tools:
   tag: release/jazzy/rviz_visual_tools/4.1.4-4
   url: https://github.com/ros2-gbp/rviz_visual_tools-release.git
